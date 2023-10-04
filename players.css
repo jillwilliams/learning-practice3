@@ -1,0 +1,28 @@
+body {
+    background-image: url('images/denver.jpg');
+    background-repeat: no-repeat;
+    z-index: -1;
+    
+    
+}
+.opener {
+    width: 100%;
+    height: auto;
+    display: flex;
+
+}
+.opener img {
+    width: 20rem;
+    height: auto;
+    padding: 20px;
+    margin: 15px;
+    border: 10px solid white;
+
+
+}
+.opener p {
+    font-size: 2rem;
+    color: white;
+    /* border: 10px solid white; */
+
+}
