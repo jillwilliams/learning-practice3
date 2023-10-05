@@ -60,7 +60,7 @@ table {
     transition: 0.5s;
 }
 .content a:hover {
-    -webkit-text-stroke: 2px white;
+    -webkit-text-stroke: 2px blue;
     color: transparent;
     
 }
