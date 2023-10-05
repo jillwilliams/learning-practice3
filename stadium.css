@@ -37,6 +37,16 @@ body {
     border: 2px solid white;
     display: inline-block;   
 }
+.address a p {
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.address iframe {
+    margin-left: 29rem;
+}
 .content {
     text-align: center;
 }
@@ -46,7 +56,7 @@ body {
     color: white;
     font-size: 24px;
     border: 2px solid white;
-    padding: 14px 70px;
+    padding: 20px 70px;
     border-radius: 30px;
     margin: 20px 20px;
     transition: 0.5s;

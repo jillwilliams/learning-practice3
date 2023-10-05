@@ -9,8 +9,7 @@ body {
 }
 .video {
     margin-left: 19rem;
-    padding: 40px;
-    
+    padding: 40px;   
 }
 .header h1 {
     text-align: center;
@@ -38,7 +37,6 @@ body {
     font-size: 40px;
     padding-right: 80px;
 }
-
 .content {
     text-align: center;
 }

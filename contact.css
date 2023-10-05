@@ -1,0 +1,66 @@
+body {
+    background-color:darkorange;
+    font-family: 'Architects Daughter';
+}
+.intro p {
+    text-align: center;
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.intro img {
+    width: 70px;
+    height: auto;
+    display: flex;
+    margin-top: -20px;
+}
+/* denver bronco picture */
+#header {
+    margin-left: 30%;
+    margin-top: 60px;
+    width: 800px;
+    height: auto;
+    border: 4px solid blue;
+}
+/* table id */
+#contactus {
+    width: 60%;
+    border: 5px blue solid;
+    
+    background-color: white;
+    
+}
+table, tr, th {
+    border: 1px orangered solid;
+    border-collapse: collapse;
+    padding: 10px;
+    align-items: center;
+    font-size: 1.5rem;
+}
+table {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 60px;
+}
+.content {
+    text-align: center;
+}
+.content a {
+    text-decoration: none;
+    display: inline-block;
+    color: blue;
+    font-size: 24px;
+    border: 2px solid blue;
+    padding: 14px 70px;
+    border-radius: 30px;
+    margin: 20px 20px;
+    transition: 0.5s;
+}
+.content a:hover {
+    -webkit-text-stroke: 2px white;
+    color: transparent;
+    
+}
