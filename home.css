@@ -37,6 +37,16 @@ body {
     font-size: 40px;
     padding-right: 80px;
 }
+table {
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+table img {
+    width: 30rem;
+    height: auto;
+    padding: 40px;
+}
 .content {
     text-align: center;
 }
@@ -53,6 +63,5 @@ body {
 }
 .content a:hover {
     -webkit-text-stroke: 2px white;
-    color: transparent;
-    
+    color: transparent;   
 }
