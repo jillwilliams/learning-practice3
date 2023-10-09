@@ -19,7 +19,7 @@ body {
 .milehigh img {
     width: 30rem;
     height: auto;
-    margin-left: 36.5rem;
+    margin-left: 5rem;
     border: 2px solid white;
 }
 .empower {
@@ -33,7 +33,7 @@ body {
 .empower img {
     width: 30rem;
     height: auto;
-    margin-left: 3rem;
+    margin-left: 5rem;
     border: 2px solid white;
     display: inline-block;   
 }
@@ -45,7 +45,7 @@ body {
     text-decoration: none;
 }
 .address iframe {
-    margin-left: 29rem;
+    /* margin-left: 1rem; */
 }
 .content {
     text-align: center;

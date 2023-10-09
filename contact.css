@@ -13,7 +13,6 @@ body {
 
 /* denver bronco picture */
 #header {
-    margin-left: 30%;
     margin-top: 20px;
     width: 800px;
     height: auto;
@@ -25,7 +24,7 @@ body {
     border-collapse: collapse;
     width: 60%;
     background-color: white;
-    margin: 40px 20%;
+    margin: 20px 0;
     font-size: 1.5rem;
 }
 #contactus td, #contactus th {
