@@ -4,11 +4,10 @@
     font-family: 'Permanent Marker';
 }
 body {
-    background-image: linear-gradient(white,rgb(224,92,52));
-    background-repeat: no-repeat;
+    background-color: orange;
 }
 .video {
-    margin-left: 19rem;
+    margin-left: 38rem;
     padding: 40px;   
 }
 .header h1 {
@@ -17,6 +16,7 @@ body {
     padding: 40px 20px;
     background-color: white;
     color: blue;
+    width: 100%;
 }
 .logo {
     width: 150px;

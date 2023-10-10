@@ -1,10 +1,10 @@
 body {
     background-color: blue;
-    font-family: 'Permanent Marker';
+    font-family: 'Kalam';
 }
 .intro p {
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.5rem;
     border: 5px orangered solid;
     width: 100%;
     height: auto;
@@ -12,22 +12,22 @@ body {
     color: white;
 }
 .milehigh p {
-    font-size: 1.5rem;
-    color:orangered;
+    font-size: 2.5rem;
+    color:white;
     text-align: center;
 }
 .milehigh img {
     width: 30rem;
     height: auto;
-    margin-left: 5rem;
+    margin-left: 37rem;
     border: 2px solid white;
 }
 .empower {
     padding-bottom: 20px;
 }
 .empower p {
-    font-size: 1.5rem;
-    color:orangered;
+    font-size: 2.5rem;
+    color:white;
     text-align: center;
 }
 .empower img {
@@ -41,11 +41,13 @@ body {
     color: white;
     text-align: center;
     padding: 30px;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     text-decoration: none;
 }
 .address iframe {
-    /* margin-left: 1rem; */
+    margin-left: 29rem;
+    margin-bottom: 40px;
+    margin-top: 20px;
 }
 .content {
     text-align: center;
